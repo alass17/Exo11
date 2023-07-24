@@ -1,0 +1,2 @@
+class ItalianFood < food
+end

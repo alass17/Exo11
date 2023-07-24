@@ -1,0 +1,2 @@
+class JapaneseFood < food
+end
